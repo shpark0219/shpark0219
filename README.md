@@ -113,7 +113,7 @@
 
 ---
 
-## 6. 팀원 소개
+## 4. 팀원 소개
 |  이름  | Github 주소 |
 | :----: | :-----------: |
 | 송영지 | [Github](https://github.com/icecandywell) |
