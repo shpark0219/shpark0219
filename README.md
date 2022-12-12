@@ -82,7 +82,7 @@
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 
 - DB   
-![MySQL](https://img.shields.io/badge/mysql-%231572B0.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![oracle](https://img.shields.io/badge/oracle-%dd3333.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 - IDEs   
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
