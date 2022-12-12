@@ -118,5 +118,5 @@
 | :----: | :-----------: |
 | 송영지 | [Github](https://github.com/icecandywell) |
 | 한우규 | [Github](https://github.com/kdn00) |
-| 김지은 | [Github](https://github.com/JamesKimberly) |
+| 김지은 | [Github]((https://github.com/jeevelyjeev) |
 | 박승현 | [Github](https://github.com/shpark0219) |
