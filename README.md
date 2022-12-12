@@ -117,6 +117,6 @@
 |  이름  | Github 주소 |
 | :----: | :-----------: |
 | 송영지 | [Github](https://github.com/icecandywell) |
-| 한우규 | [Github](https://github.com/kdn00) |
+| 한우규 | [Github](https://github.com/hwk7217) |
 | 김지은 | [Github](https://github.com/jeevelyjeev) |
 | 박승현 | [Github](https://github.com/shpark0219) |
